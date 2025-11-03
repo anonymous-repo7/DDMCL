@@ -7,7 +7,7 @@
 # Environment
 
 - python 3.10.16
-- pytorch 1.12.0
+- pytorch 2.0.0
 - numpy 1.26.4
 
 # How to run
